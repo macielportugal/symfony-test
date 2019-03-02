@@ -33,9 +33,9 @@ curl -X GET http://127.0.0.1:8000/api/user
 
 No json de retorno você terá a quantidade usuário e o link para próxima página ou anterior.
 
-```json
+```bash
 {
-    'count': ,
+    'count': 51,
     'items': [
         ...
     ],
